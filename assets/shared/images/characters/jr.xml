@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jr.png"><SubTexture name="jr idle0000" x="0" y="0" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr idle0001" x="604" y="0" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr idle0002" x="1208" y="0" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr idle0003" x="0" y="1071" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr right0000" x="604" y="1071" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr right0001" x="1208" y="1071" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr up0000" x="0" y="2142" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr up0001" x="604" y="2142" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr up0002" x="1208" y="2142" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr left0000" x="0" y="3213" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr left0001" x="604" y="3213" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr left0002" x="1208" y="3213" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr down0000" x="0" y="4284" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr down0001" x="604" y="4284" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+<SubTexture name="jr down0002" x="1208" y="4284" width="604" height="1071" frameX="0" frameY="0" frameWidth="604" frameHeight="1071" />
+</TextureAtlas>
